@@ -12,6 +12,10 @@ i always catch myself manually doing these things so might as well make it easie
 
 3. run: `yarn dev`
 
+### extra
+
+-   if you wanna change your remote URL: `git remote set-url origin new.git.url/here`
+
 ## info
 
 the base of this was created with by running `yarn create next-app --typescript` (as of september 2022) ([source](https://nextjs.org/docs/basic-features/typescript#create-next-app-support))
