@@ -1,6 +1,6 @@
 # nextjs template
 
-this is the template i use for whenever i want to use nextjs for a project
+this is the template i use for when i want to use nextjs for a project
 
 i always catch myself manually doing these things so might as well make it easier for myself
 
